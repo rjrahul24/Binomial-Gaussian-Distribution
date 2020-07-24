@@ -1,0 +1,19 @@
+## Fun facts about Normal Distributions
+
+Incredible number of processes in nature and social sciences naturally follows the Gaussian distribution. 
+Even when they don’t, the Gaussian gives the best model approximation for these processes. 
+
+Some examples include-
+1. Our height, blood pressure of adult human and intelligence
+2. Position of a particle that experiences diffusion
+3. Measurement errors
+
+Some interesting facts-
+1. Its mean, median and mode are all same
+2. The entire distribution can be specified using just two parameters- mean and variance
+
+According to the Empirical Rule for Normal Distribution:
+-- 68.27% of data lies within 1 standard deviation of the mean
+-- 95.45% of data lies within 2 standard deviations of the mean
+-- 99.73% of data lies within 3 standard deviations of the mean
+Thus, almost all the data lies within 3 standard deviations. This rule enables us to check for Outliers and is very helpful when determining the normality of any distribution.
