@@ -1,0 +1,17 @@
+## How is Binomial Distribution used in Data Analysis
+
+One major aspect of data science is to identify patterns in the data and to predict the future scenarios based on those patterns. 
+Probability distribution is all about predicting the likelihood of an event in given circumstances. 
+Therefore probability distribution becomes an important tool in data science.
+
+Binomial Distribution is a probability distribution that describes a likelihood of a value which would take place of either of the two independent values under a given set of parameters.
+Many instances of binomial distributions can be found in real life. 
+For example, if a new drug is introduced to cure a disease, it either cures the disease (it’s successful) or it doesn’t cure the disease (it’s a failure). 
+If you purchase a lottery ticket, you’re either going to win money, or you aren’t. 
+Basically, anything you can think of that can only be a success or a failure can be represented by a binomial distribution.
+
+Binomial distributions must also meet the following three criteria:
+
+1. The number of observations or trials is fixed. In other words, you can only figure out the probability of something happening if you do it a certain number of times. This is common sense—if you toss a coin once, your probability of getting a tails is 50%. If you toss a coin a 20 times, your probability of getting a tails is very, very close to 100%.
+2. Each observation or trial is independent. In other words, none of your trials have an effect on the probability of the next trial.
+3. The probability of success (tails, heads, fail or pass) is exactly the same from one trial to another.
