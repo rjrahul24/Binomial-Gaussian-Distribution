@@ -28,3 +28,6 @@ Binomial distributions must also meet the following three criteria:
 The number of observations or trials is fixed. In other words, you can only figure out the probability of something happening if you do it a certain number of times. This is common sense—if you toss a coin once, your probability of getting a tails is 50%. If you toss a coin a 20 times, your probability of getting a tails is very, very close to 100%.
 Each observation or trial is independent. In other words, none of your trials have an effect on the probability of the next trial.
 The probability of success (tails, heads, fail or pass) is exactly the same from one trial to another.
+
+In probability theory, a normal (or Gaussian or Gauss or Laplace–Gauss) distribution is a type of continuous probability distribution for a real-valued random variable. 
+The parameter {mu} is the mean or expectation of the distribution (and also its median and mode), while the parameter {sigma}  is its standard deviation. A random variable with a Gaussian distribution is said to be normally distributed, and is called a normal deviate.
